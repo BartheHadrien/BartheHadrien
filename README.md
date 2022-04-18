@@ -23,9 +23,4 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
 </p>
-<img align"center" src="https://github-readme-stats.vercel.app/api?username=BartheHadrien" />
-
-
-
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BartheHadrien&show_icons=true&theme=gotham" />
