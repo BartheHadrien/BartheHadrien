@@ -23,7 +23,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
 </p>
-<p align="center" > [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartheHadrien)](https://github.com/anuraghazra/github-readme-stats)
+<img align"center" src="https://github-readme-stats.vercel.app/api?username=BartheHadrien" />
 
 
 
