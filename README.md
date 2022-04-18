@@ -1,8 +1,8 @@
 <h1>Hello there! 👋 .</h1>
-![](https://visitor-badge.glitch.me/badge?page_id=BartheHadrien.BartheHadrien)
 <a href="https://www.linkedin.com/in/hadrienbarthe/">
 <img align="left" alt="Hadrien Barthe LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <p>Welcome to my page! </br> I'm Hadrien, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Brest, France</b></p>
 <h3>Things I code with</h3>
 <p>
